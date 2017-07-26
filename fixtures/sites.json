@@ -3,16 +3,24 @@
         "pk": 1,
         "model": "sites.site",
         "fields": {
-            "domain": "localhost:8000",
-            "name": "example.com [localhost]"
+            "domain": "businessagile.eu",
+            "name": "businessagile.eu"
         }
     },
     {
         "pk": 2,
         "model": "sites.site",
         "fields": {
-            "domain": "example.com",
-            "name": "example.com"
+            "domain": "businessagile.tech",
+            "name": "businessagile.tech"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "sites.site",
+        "fields": {
+            "domain": "elsa.pro",
+            "name": "elsa.pro"
         }
     }
 ]
