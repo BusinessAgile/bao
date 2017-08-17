@@ -4,7 +4,7 @@
         "model": "sites.site",
         "fields": {
             "domain": "businessagile.eu",
-            "name": "businessagile.eu"
+            "name": "Business Agile"
         }
     },
     {
@@ -12,7 +12,7 @@
         "model": "sites.site",
         "fields": {
             "domain": "businessagile.tech",
-            "name": "businessagile.tech"
+            "name": "Business Agile Tech"
         }
     },
     {
@@ -20,7 +20,7 @@
         "model": "sites.site",
         "fields": {
             "domain": "elsa.pro",
-            "name": "elsa.pro"
+            "name": "Elsa"
         }
     }
 ]
