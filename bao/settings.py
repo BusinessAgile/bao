@@ -107,6 +107,7 @@ TEMPLATES = [
                 "django.template.context_processors.request",
                 "django.contrib.messages.context_processors.messages",
                 "account.context_processors.account",
+                "django.core.context_processors.request",
                 "pinax_theme_bootstrap.context_processors.theme",
             ],
         },
